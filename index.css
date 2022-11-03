@@ -1,0 +1,19 @@
+body{
+    background-color:hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#block{
+   
+    margin-top: 130px;
+    
+    font-size: 15px;
+    border-radius: 1em;
+}
+
+
+.image{
+    margin: 8px;
+    border-radius:1em;
+}
